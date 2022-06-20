@@ -36,7 +36,7 @@ form {
   overflow: hidden;
   display: -webkit-flex;
   display: flex;
-  border-radius: .2em;
+  border-radius: .3em;
   border: solid 4px white;
   box-shadow: 0 1px 14px rgba(0,0,0, .22);
 }
